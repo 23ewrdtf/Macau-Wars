@@ -1,6 +1,6 @@
 # Macau-Wars (card game)
 
-Macau Wars It’s a major game variation of the Macau card game based on the [[Macau (card game)|Macau Plawno Variation]], still being in development(https://github.com/tretos53/Macau-Wars).
+Macau Wars It’s a major game variation of the Macau card game based on the Macau (card game) Macau Plawno Variation https://en.wikipedia.org/wiki/Macau_(card_game), still being in development.
 
 # Gameplay
 
