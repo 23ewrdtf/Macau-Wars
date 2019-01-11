@@ -34,7 +34,7 @@ Queen of diamonds - the next person is skipped (also during the war).
 
 Queen of spades - order of play switches directions (also during the war).
 
-Queen of clubs - player can chose who play net including her/himself (also during the war).
+Queen of clubs - player can chose who play next (cannot chose her/himself) (also during the war).
 
 If a 4 is played the deception part starts, and all the players must miss a go, unless they have a 4 (if they don't have a 4 or they chose not to play the 4, they don't pick a card from the deck), in which case they can add this to the original 4, and all players in sequence must miss a go, unless someone has a 4, in which case they can add this to the original 4 and so on. If no one else has a 4 then the last player, who put 4 plays as many times as there are 4s. For example, if there are four 4s after the last player played the 4, the player must play four times. Note: the last player will play four times against him/herself, that also include all the action cards which will apply to the player him/herself. The deception is when someone doesn't want to play a 4 but has it and can play a 4 after everyone said they don't/have a 4 causing this player to have more turns.
 
