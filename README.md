@@ -13,7 +13,7 @@ Cards cannot be played in runs, i.e. 5 of Spades, 6 of Spades, 7 of Spades, 7 of
 When an action card is played, the player next (or previous depend on the action card) in the sequence must complete the action or add to it to pass it onto the next player in sequence. When down to a single card, a player must say "Macau!". If a player forgets to call "Macau" before the next players move, the player must draw 5 cards. The winner of the game is the first player to have no cards; in instances of more than 2 players, gameplay continues until only one player is left with cards. In case of Macau Championships once the first player to have no cards wins and the game stops. The winner shuffles the cards and the new game starts. One point is then assigned to the winner.
 
 For the avoidance of doubt:
-If the player plays King of Spades and King of Hearts the next player will pick up 5 cards as the top card takes precedence.
+If the player plays King of Spades and King of Hearts with King of Hearts on top the next player will pick up 5 cards as the top card takes precedence in this case.
 
 # War
 
